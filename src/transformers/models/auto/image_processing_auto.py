@@ -98,6 +98,7 @@ else:
             ("focalnet", ("BitImageProcessor", "BitImageProcessorFast")),
             ("fuyu", ("FuyuImageProcessor",)),
             ("gemma3", ("Gemma3ImageProcessor", "Gemma3ImageProcessorFast")),
+            ("darkidol", ("DarkidolImageProcessor", "DarkidolImageProcessorFast")),
             ("gemma3n", ("SiglipImageProcessor", "SiglipImageProcessorFast")),
             ("git", ("CLIPImageProcessor", "CLIPImageProcessorFast")),
             ("glm4v", ("Glm4vImageProcessor", "Glm4vImageProcessorFast")),

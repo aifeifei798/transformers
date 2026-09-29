@@ -166,6 +166,7 @@ CONFIG_MAPPING_NAMES = OrderedDict(
         ("dots1", "Dots1Config"),
         ("dpr", "DPRConfig"),
         ("dpt", "DPTConfig"),
+        ("dualbig_moe", "DualBigMoEConfig"),
         ("edgetam", "EdgeTamConfig"),
         ("edgetam_video", "EdgeTamVideoConfig"),
         ("edgetam_vision_model", "EdgeTamVisionConfig"),

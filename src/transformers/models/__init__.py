@@ -131,6 +131,7 @@ if TYPE_CHECKING:
     from .dots1 import *
     from .dpr import *
     from .dpt import *
+    from .dualbig_moe import *
     from .edgetam import *
     from .edgetam_video import *
     from .efficientloftr import *

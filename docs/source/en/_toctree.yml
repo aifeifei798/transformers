@@ -609,6 +609,8 @@
         title: dots1
       - local: model_doc/dpr
         title: DPR
+      - local: model_doc/dualbig_moe
+        title: DualBigMoE
       - local: model_doc/electra
         title: ELECTRA
       - local: model_doc/encoder-decoder
